@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi there 👋, i'm Andrew
+## Computer science student IT from Russia 🇷🇺
+## I’m looking for help with learning new IT feauters and languages🤔
 <!--
 **raidfb/raidfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
